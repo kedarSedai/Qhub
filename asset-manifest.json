@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Qhub/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/Qhub/static/js/main.6b3c4918.chunk.js",
+    "main.js.map": "/Qhub/static/js/main.6b3c4918.chunk.js.map",
+    "runtime-main.js": "/Qhub/static/js/runtime-main.b9b91934.js",
+    "runtime-main.js.map": "/Qhub/static/js/runtime-main.b9b91934.js.map",
+    "static/js/2.f5ef3581.chunk.js": "/Qhub/static/js/2.f5ef3581.chunk.js",
+    "static/js/2.f5ef3581.chunk.js.map": "/Qhub/static/js/2.f5ef3581.chunk.js.map",
+    "static/js/3.78319ed7.chunk.js": "/Qhub/static/js/3.78319ed7.chunk.js",
+    "static/js/3.78319ed7.chunk.js.map": "/Qhub/static/js/3.78319ed7.chunk.js.map",
+    "index.html": "/Qhub/index.html",
+    "precache-manifest.3685f1d616e0566d014618260306cf00.js": "/Qhub/precache-manifest.3685f1d616e0566d014618260306cf00.js",
+    "service-worker.js": "/Qhub/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/Qhub/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.f5ef3581.chunk.js.LICENSE.txt": "/Qhub/static/js/2.f5ef3581.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/Qhub/static/media/profile.79ba2002.jpg",
+    "static/media/svg-1.svg": "/Qhub/static/media/svg-1.55cfb481.svg",
+    "static/media/svg-2.svg": "/Qhub/static/media/svg-2.d4846e11.svg",
+    "static/media/svg-3.svg": "/Qhub/static/media/svg-3.397c455a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b91934.js",
+    "static/js/2.f5ef3581.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.6b3c4918.chunk.js"
+  ]
+}
